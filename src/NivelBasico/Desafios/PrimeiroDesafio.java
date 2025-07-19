@@ -16,7 +16,7 @@ public class PrimeiroDesafio {
 
         String nomeAmigo3 = "My Melody";
         int idadeAmigo3 = 20;
-        String nomeMissaoAmigo3 = "Criar festivar de musica";
+        String nomeMissaoAmigo3 = "Criar festival de musica";
         char nivelMissaoAmigo3 = 'E';
         String conclusaoMissaoAmigo3 = "Não concluído";
 
